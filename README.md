@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/readme/hero.gif" width="1200" alt="GIT &amp; GITHUB PRACTICE — rotating 3D geometry" />
+<img src="assets/readme/hero.gif" width="1200" alt="GIT &amp; GITHUB PRACTICE: a forked commit graph with course notes" />
 
 **[English](README.md) · [فارسی](README.fa.md)**
 
-<img src="assets/readme/identity.svg" width="1200" alt="learning / English and Persian documentation" />
-
 </div>
 
-# GIT & GITHUB PRACTICE
+# 🍴 GIT & GITHUB PRACTICE
 
 A forked Git/GitHub course repository with interest-calculator exercises and upstream community documents.
 
@@ -16,22 +14,39 @@ A forked Git/GitHub course repository with interest-calculator exercises and ups
 
 > This repository is a fork. Source attribution belongs to the upstream authors; the previous README is preserved in docs/UPSTREAM_README.md.
 
+| At a glance | Details |
+|:---|:---|
+| 🍴 Experience | Learning exercise / source archive |
+| 🧰 Built with | `Python` |
+| 🌐 Documentation | [English](README.md) · [فارسی](README.fa.md) |
 
-Upstream source: [ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub](https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub).
+[✨ Features](#features) · [🚀 Getting started](#getting-started) · [⚙️ Configuration](#configuration) · [🌍 Deployment](#deployment)
 
-## Features
+📚 [Original documentation](docs/UPSTREAM_README.md) · [Upstream](https://github.com/MOHAMMADREZAABEDINPOOR)
 
-- Shell simple-interest calculator
-- Contribution guidance
-- Community code of conduct
+---
 
-## Stack
+<a id="features"></a>
+
+## ✨ Features
+
+| Area | Included capability |
+|:---|:---|
+| ⚡ Workflow | Shell simple-interest calculator |
+| ⚡ Workflow | Contribution guidance |
+| ⚡ Workflow | Community code of conduct |
+
+<a id="stack"></a>
+
+## 🧰 Stack
 
 | Tool | Version / source |
 |---|---|
 | Python | `standard library / source imports` |
 
-## Getting started
+<a id="getting-started"></a>
+
+## 🚀 Getting started
 
 Python 3; a desktop/Tk installation for Tkinter or turtle examples. Tkinter is provided by the Python installation, not pip. Legacy dependencies may need a compatible Python version.
 
@@ -42,15 +57,21 @@ cd mcino-Introduction-to-Git-and-GitHub
 bash simple-interest.sh
 ```
 
-## Configuration
+<a id="configuration"></a>
+
+## ⚙️ Configuration
 
 No standard environment template is defined. Standalone exercises need no external configuration; inspect any service constants or paths in the source before running.
 
-## Usage
+<a id="usage"></a>
+
+## 🎯 Usage
 
 Run bash simple-interest.sh and enter principal, annual rate and years as requested.
 
-## Project structure
+<a id="project-structure"></a>
+
+## 🗂️ Project structure
 
 | Path | Role |
 |---|---|
@@ -59,24 +80,34 @@ Run bash simple-interest.sh and enter principal, annual rate and years as reques
 | [`compound_interest.py`](compound_interest.py) | Project entry/configuration file |
 | [`simple-interest.sh`](simple-interest.sh) | Project entry/configuration file |
 
-## Commands and checks
+<a id="commands-and-checks"></a>
+
+## 🧪 Commands and checks
 
 No automated test command is declared in a manifest. Verify behavior through a local example run.
 
-## Deployment
+<a id="deployment"></a>
+
+## 🌍 Deployment
 
 This is a local learning exercise, not a public service. Browser exercises can use static hosting.
 
-## Limitations
+<a id="limitations"></a>
+
+## 📌 Limitations
 
 This is an educational calculator. Read its rate/unit handling; it is not financial advice.
 
-## Troubleshooting
+<a id="troubleshooting"></a>
+
+## 🛠️ Troubleshooting
 
 - GUI unavailable: use a desktop Python installation with Tk for Tkinter/turtle examples.
 - Invalid input: use the numeric/text format expected by the selected script.
 
-## Contributing
+<a id="contributing"></a>
+
+## 🤝 Contributing
 
 Create a focused branch, verify the affected behavior and explain the change clearly. Keep private data, build outputs and local databases out of commits.
 
@@ -85,10 +116,20 @@ Supporting guides:
 - [CONTRIBUTING.md](CONTRIBUTING.md)
 - [docs/UPSTREAM_README.md](docs/UPSTREAM_README.md)
 
-## License
+<a id="license"></a>
+
+## 📄 License
 
 The repository license text is in the following file; third-party resources and dependencies can have different terms: [LICENSE](LICENSE).
 
 ---
 
 Part of **PIMX** · Documentation in English and Persian.
+
+---
+
+<div align="center">
+
+🍴 **GIT & GITHUB PRACTICE** · [English](README.md) · [فارسی](README.fa.md)
+
+</div>
